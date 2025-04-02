@@ -22,7 +22,7 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here (CypherX is cool, but feel free to name it something quirky!)",
-      "value": "CypherX",
+      "value": "👽👽",
       "required": false
     },
     "OWNER_NUMBER": {
@@ -32,7 +32,7 @@
     },
     "OWNER_NAME": {
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
-      "value": "",
+      "value": "👻",
       "required": true
     },
    "HEROKU_API_KEY": {
